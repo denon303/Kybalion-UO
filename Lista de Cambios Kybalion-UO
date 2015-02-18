@@ -1,15 +1,15 @@
 
 ******** Lista de Cambios para Kybalion-UO 0.1v *************
 
-0 - Se traduce al español la creacion de cuenta Admin en AccountPrompt.cs - Realizado 18/02/2015
+0 - ***Se traduce al español la creacion de cuenta Admin en AccountPrompt.cs - Realizado 18/02/2015
 
-1 - Modificar numero de cuentas a 3 por ip - Pendiente
+1 - ***Modificar numero de cuentas a 3 por ip y creacion de cuentas automatica desactivada- Realizado 18/02/2015
 
-2 - Datos de red y nombre del servidor configurados con nuevo serverlist.cs de MrFixit - Realizado 18/02/2015
+2 - ***Datos de red y nombre del servidor configurados con nuevo serverlist.cs de MrFixit - Realizado 18/02/2015
 
 3 - Personalizar Banner de SAVE - Pendiente
 
-3.1 - Se modifica el tiempo de SAVE - Ahora el mundo se salva cada 60 minutos - Realizado 18/02/2015
+3.1 - ***Se modifica el tiempo de SAVE - Ahora el mundo se salva cada 60 minutos - Realizado 18/02/2015
 
 4 - Creacion de cuentas por correo electronico + cuentas premium para establecer un sistema de pago - Pendiente
 
