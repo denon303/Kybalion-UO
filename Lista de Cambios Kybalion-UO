@@ -1,8 +1,10 @@
-Lista de Cambios para Kybalion-UO
+
+******** Lista de Cambios para Kybalion-UO 0.1v *************
+
 
 1 - Modificar numero de cuentas a 3 por ip - Pendiente
 
-2 - Incorporar nombre del servidor "Kybalion UO" - Pendiente
+2 - Se incorporta Nombre de servidor "Kybalion UO" y se configura datos de red con nuevo serverlist.cs de MrFixit - Realizado 18/02/2015
 
 3 - Personalizar Banner de SAVE y tiempo de save "cada 1h" - Pendiente
 
