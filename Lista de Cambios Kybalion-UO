@@ -5,7 +5,7 @@
 
 1 - ***Modificar numero de cuentas a 3 por ip y creacion de cuentas automatica desactivada- Realizado 18/02/2015
 
-2 - ***Datos de red y nombre del servidor configurados con nuevo serverlist.cs de MrFixit - Realizado 18/02/2015
+2 - ***Se aceptan conexiones remotas y locales, nombre servidor configurado en serverlist.cs de MrFixit - Realizado 18/02/2015
 
 3 - Personalizar Banner de SAVE - Pendiente
 
